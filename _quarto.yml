@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Hands-on Machine Learning with R"
+  author: "Reza Arabi Belaghi"
+  chapters:
+    - index.qmd
+    - part: "I Fundamentals"
+      chapters:
+        - 01-Introduction to Machine Learning.qmd
+        - 02-Logistic Regression.qmd
+        - 03-Penalized Logistic Regression.qmd
+    - part: "II ..."
+      chapters:
+        - 04-Discrimination Analysis.qmd
+        - 05-K-Nearest Neighborhood.qmd
+        - 06-Decision Trees.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: slate
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    page-navigation: true
+    code-link: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    mainfont: "Lato"
+    monofont: "Fira Code"
+    fontsize: 1.05em
+    css: styles.css     # custom styling (next step)
+
+website:
+  search: true
+  favicon: favicon.png  # optional if you add one

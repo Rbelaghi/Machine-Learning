@@ -1,0 +1,10 @@
+# Welcome
+
+This site contains my Machine Learning course materials.
+
+- [Introduction to Machine Learning](01-Introduction to Machine Learning.qmd)
+- [Logistic Regression](02-Logistic Regression.qmd)
+- [Penalized Logistic Regression](03-Penalized Logistic Regression.qmd)
+- [Discrimination Analysis](04-Discrimination Analysis.qmd)
+- [K-Nearest Neighborhood](05-K-Nearest Neighborhood.qmd)
+- [Decision Trees](06-Decision Trees.qmd)

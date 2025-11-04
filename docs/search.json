@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hands-on Machine Learning with R",
+    "section": "",
+    "text": "1 Welcome\nThis site contains my Machine Learning course materials.\n\nIntroduction to Machine Learning\nLogistic Regression\nPenalized Logistic Regression\nDiscrimination Analysis\nK-Nearest Neighborhood\nDecision Trees",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "01-Introduction to Machine Learning.html",
+    "href": "01-Introduction to Machine Learning.html",
+    "title": "2  Introduction to Machine Learning",
+    "section": "",
+    "text": "This chapter introduces the concepts of ….",
+    "crumbs": [
+      "I Fundamentals",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "02-Logistic Regression.html",
+    "href": "02-Logistic Regression.html",
+    "title": "3  Linear Regression",
+    "section": "",
+    "text": "3.1 Model\nThis chapter introduces the concept of logistic regression",
+    "crumbs": [
+      "I Fundamentals",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "02-Logistic Regression.html#assumptions",
+    "href": "02-Logistic Regression.html#assumptions",
+    "title": "3  Linear Regression",
+    "section": "3.2 Assumptions",
+    "text": "3.2 Assumptions",
+    "crumbs": [
+      "I Fundamentals",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "02-Logistic Regression.html#example",
+    "href": "02-Logistic Regression.html#example",
+    "title": "3  Linear Regression",
+    "section": "3.3 Example",
+    "text": "3.3 Example",
+    "crumbs": [
+      "I Fundamentals",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "03-Penalized Logistic Regression.html",
+    "href": "03-Penalized Logistic Regression.html",
+    "title": "4  Penalized Logistic Regression",
+    "section": "",
+    "text": "….",
+    "crumbs": [
+      "I Fundamentals",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Penalized Logistic Regression</span>"
+    ]
+  },
+  {
+    "objectID": "04-Discrimination Analysis.html",
+    "href": "04-Discrimination Analysis.html",
+    "title": "5  Discrimination Analysis",
+    "section": "",
+    "text": "….",
+    "crumbs": [
+      "II ...",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Discrimination Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "05-K-Nearest Neighborhood.html",
+    "href": "05-K-Nearest Neighborhood.html",
+    "title": "6  K-Nearest Neighborhood",
+    "section": "",
+    "text": "KNN",
+    "crumbs": [
+      "II ...",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>K-Nearest Neighborhood</span>"
+    ]
+  },
+  {
+    "objectID": "06-Decision Trees.html",
+    "href": "06-Decision Trees.html",
+    "title": "7  Decision Trees",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "II ...",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Decision Trees</span>"
+    ]
+  }
+]
