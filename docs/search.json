@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "1 Welcome\nThis site contains my Machine Learning course materials.\n\nLinear Regression\nLogistic Regression\nRegularization",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "01-linear-regression.html",
+    "href": "01-linear-regression.html",
+    "title": "2  Linear Regression",
+    "section": "",
+    "text": "2.1 Model\nThis chapter introduces the concepts of ordinary least squares.\nThe linear model is: ( y = X+ )",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "01-linear-regression.html#assumptions",
+    "href": "01-linear-regression.html#assumptions",
+    "title": "2  Linear Regression",
+    "section": "2.2 Assumptions",
+    "text": "2.2 Assumptions\n\nLinearity\n\nIndependence\n\nHomoscedasticity\n\nNormality",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "01-linear-regression.html#example",
+    "href": "01-linear-regression.html#example",
+    "title": "2  Linear Regression",
+    "section": "2.3 Example",
+    "text": "2.3 Example\n#| echo: true x &lt;- 1:10 y &lt;- 2 + 3*x + rnorm(10) lm(y ~ x)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "02-logistic-regression.html",
+    "href": "02-logistic-regression.html",
+    "title": "3  Linear Regression",
+    "section": "",
+    "text": "3.1 Model\nThis chapter introduces the concepts of ordinary least squares.\nThe linear model is: ( y = X+ )",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "02-logistic-regression.html#assumptions",
+    "href": "02-logistic-regression.html#assumptions",
+    "title": "3  Linear Regression",
+    "section": "3.2 Assumptions",
+    "text": "3.2 Assumptions\n\nLinearity\n\nIndependence\n\nHomoscedasticity\n\nNormality",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "02-logistic-regression.html#example",
+    "href": "02-logistic-regression.html#example",
+    "title": "3  Linear Regression",
+    "section": "3.3 Example",
+    "text": "3.3 Example\n#| echo: true x &lt;- 1:10 y &lt;- 2 + 3*x + rnorm(10) lm(y ~ x)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Linear Regression</span>"
+    ]
+  },
+  {
+    "objectID": "03-regularization.html",
+    "href": "03-regularization.html",
+    "title": "4  Regularization",
+    "section": "",
+    "text": "4.1 Techniques\nRegularization methods penalize large coefficients to reduce overfitting.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Regularization</span>"
+    ]
+  },
+  {
+    "objectID": "03-regularization.html#techniques",
+    "href": "03-regularization.html#techniques",
+    "title": "4  Regularization",
+    "section": "",
+    "text": "Ridge Regression\nLASSO\nElastic Net",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Regularization</span>"
+    ]
+  }
+]
