@@ -1,7 +1,0 @@
-# Welcome
-
-This site contains my Machine Learning course materials.
-
-- [Linear Regression](01-linear-regression.qmd)
-- [Logistic Regression](02-logistic-regression.qmd)
-- [Regularization](03-regularization.qmd)
