@@ -1,0 +1,8 @@
+# Regularization
+
+Regularization methods penalize large coefficients to reduce overfitting.
+
+## Techniques
+- Ridge Regression
+- LASSO
+- Elastic Net

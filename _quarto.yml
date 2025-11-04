@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Machine Learning"
+  author: "Hülya Yürekli"
+  chapters:
+    - index.qmd
+    - 01-linear-regression.qmd
+    - 02-logistic-regression.qmd
+    - 03-regularization.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
+    smooth-scroll: true
+
+website:
+  search: true

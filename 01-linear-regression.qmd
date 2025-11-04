@@ -1,0 +1,19 @@
+# Linear Regression
+
+This chapter introduces the concepts of ordinary least squares.
+
+## Model
+The linear model is:  \( y = X\beta + \varepsilon \)
+
+## Assumptions
+- Linearity  
+- Independence  
+- Homoscedasticity  
+- Normality  
+
+## Example
+```{r}
+#| echo: true
+x <- 1:10
+y <- 2 + 3*x + rnorm(10)
+lm(y ~ x)
