@@ -1,0 +1,13 @@
+**Goal:** Demonstrate competence in both unsupervised and supervised pipelines using one life-science dataset (or two related datasets).
+
+**Data preparation & preprocessing:** Preprocess data; handle missing data; train/test split; cross-validation; evaluate the fitted model.
+
+**Supervised:** Choose at least two models among (Tree/RF, SVM, simple ANN). Define a clear target, conduct CV-based tuning, compare metrics (AUC/accuracy/F1, etc.), and explain trade-offs.
+
+**Reporting:** Short, reproducible report (Rmd → HTML/PDF) with code appendix, figures, and clear interpretation for non-ML audiences.
+
+**Submission:** R project folder with data dictionary, Rmd, and knitted output.
+
+## Final Project
+
+Small open-ended project using a dataset of interest (agriculture, biology, or medicine). Present: problem, data, methods (at least two families), metrics, key findings, and limitations. Deliver slides and a brief write-up (2–4 pages).
