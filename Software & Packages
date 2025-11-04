@@ -1,0 +1,4 @@
+- **Core:** `tidyverse`, `tidymodels`, `rsample`, `yardstick`, `parsnip`, `workflows`  
+- **Models:** `rpart`, `randomForest` or `ranger`, `e1071` (SVM), `nnet` or `keras` (ANN)  
+- **EDA/plots:** `GGally`, `factoextra`, `cluster`, `pcaMethods`  
+- **Reproducibility:** `renv`, `targets`/`drake`, `janitor`, `here`, `styler`
