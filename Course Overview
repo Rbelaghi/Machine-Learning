@@ -1,0 +1,34 @@
+
+## Course Overview
+
+This course provides a hands-on approach to machine learning in life sciences, focusing on the practical application of key algorithms using R. Students will gain basic knowledge of supervised and unsupervised models and learn how to apply, evaluate, and interpret these models in real-world biological datasets.
+
+## Prerequisites
+
+- Undergraduate degree in agronomy, biology, chemistry, or a related area  
+- Basic familiarity with R and introductory statistics
+
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+- Explain the workflow of supervised and unsupervised machine learning for life-science data
+- Implement logistic regression, decision trees, random forests, SVMs,  and simple ANNs in R
+- Evaluate and tune models (resampling, hyperparameters, performance metrics)
+- Interpret results for scientific reporting in agricultural, biological, and medical contexts
+- Communicate findings via a short, structured project presentation
+
+## Teaching & Assessment Strategy
+
+- **Synchronous sessions:** 2 per week (Lecture/Discussion and Lab), ~1.5–2 h each  
+- **Assessment:** One combined assignment (supervised + unsupervised) and one final project presentation  
+- **Preparation:** Short pre-class video/readings for theory; live time is used for Q&A and hands-on labs
+
+### Assessment Components
+
+| Component | Weight | Due |
+|---|---:|:---|
+| Assignment | 50% | End of Week 3 |
+| Final Project Presentation | 50% | Week 4 (presentation day) |
+
+**Pass criteria:** Submission quality, code correctness/reproducibility, methodological justification, and clarity of interpretation.
